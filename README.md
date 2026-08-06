@@ -1,8 +1,5 @@
 ## Olá! Eu sou Ninoska Palmares👋
 
-<!--
-
-
 🚀 **Junior Front-End | Junior UX/UI Design  
 🇧🇷 Brazil
 
