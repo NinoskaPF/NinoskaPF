@@ -69,7 +69,7 @@ Atualmente continuo aprimorando meus conhecimentos em tecnologias Front-End e bo
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NinoskaPF&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ninoskapf&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinoskaPF&layout=compact&theme=tokyonight" />
 </p>
 
