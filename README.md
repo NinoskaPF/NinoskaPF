@@ -1,6 +1,6 @@
 ## Olá! Eu sou Ninoska Palmares👋
 
-🚀 **Junior Front-End | Junior UX/UI Design  
+🚀 Junior Front-End | Junior UX/UI Design  
 🇧🇷 Brazil
 
 Sou **Desenvolvedora Front-End Júnior**, apaixonada por criar interfaces web modernas, acessíveis e focadas na experiência do usuário.
