@@ -46,7 +46,7 @@ Atualmente continuo aprimorando meus conhecimentos em tecnologias Front-End e bo
 
 ## 🛠️ Tecnologias
 
-//### Frontend
+### Frontend
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
@@ -69,7 +69,7 @@ Atualmente continuo aprimorando meus conhecimentos em tecnologias Front-End e bo
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ninoskapf&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NinoskaPF&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NinoskaPF&layout=compact&theme=tokyonight" />
 </p>
 
