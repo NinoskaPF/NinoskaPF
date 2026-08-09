@@ -15,32 +15,19 @@ Atualmente continuo aprimorando meus conhecimentos em tecnologias Front-End e bo
 
 ## 🌐 Conecte-se comigo
 
-<p align="left">
-  <a href="https://github.com/NinoskaPF">
-    <img src=>
-  </a>
-  <a href="https://instagram.com/">
-    <img src=>
-  </a>
-  <a href="https:// aqui voy a coloar behance">
-    <img src=">
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src=">
-  </a>
-</p>
+
 <div>
-                <nav>
-                    <a href="https://www.behance.net/ninoskapalmares" class="img-boton"><img src="IMG/behance.png"
-                            width="25"><span>BeHance</span></a>
+  <p align="left">
+                    <a href="https://www.behance.net/ninoskapalmares" class="img-boton"><img src="IMG/instagram.png"
+                            width="25"><span>Instagram</span></a>
                     <a href="www.linkedin.com/in/ninoska-palmares-30a27a99" class="img-boton"><img
                             src="IMG/linkedin.png" width="25"><span>Linkedin</span></a>
                     <a href="https://docs.github.com/es/repositories/" class="img-boton"><img src="IMG/github.png"
                             width="25"><span>Github</span></a>
-                    <a href="https://www.behance.net/ninoskapalmares" class="img-boton"><img src="IMG/instagram.png"
-                            width="25"><span>Instagram</span></a>
-                </nav>
-            </div>
+                    <a href="https://www.behance.net/ninoskapalmares" class="img-boton"><img src="IMG/behance.png"
+                            width="25"><span>BeHance</span></a>
+  </p>
+</div>
 
 ---
 
