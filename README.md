@@ -29,6 +29,18 @@ Atualmente continuo aprimorando meus conhecimentos em tecnologias Front-End e bo
     <img src=">
   </a>
 </p>
+<div>
+                <nav>
+                    <a href="https://www.behance.net/ninoskapalmares" class="img-boton"><img src="IMG/behance.png"
+                            width="25"><span>BeHance</span></a>
+                    <a href="www.linkedin.com/in/ninoska-palmares-30a27a99" class="img-boton"><img
+                            src="IMG/linkedin.png" width="25"><span>Linkedin</span></a>
+                    <a href="https://docs.github.com/es/repositories/" class="img-boton"><img src="IMG/github.png"
+                            width="25"><span>Github</span></a>
+                    <a href="https://www.behance.net/ninoskapalmares" class="img-boton"><img src="IMG/instagram.png"
+                            width="25"><span>Instagram</span></a>
+                </nav>
+            </div>
 
 ---
 
